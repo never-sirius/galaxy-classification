@@ -1,7 +1,7 @@
-**Galaxy Classification with Machine Learning**
+**SGalaxy Classification with Machine Learning**
 
 ## Overview
-This project classifies galaxies into morphological types: **spiral, elliptical, and irregular**.  
+This project classifies galaxies into morphological types: **spiral, elliptical, and irregular**. 
 It explores how different **preprocessing techniques** affect model performance and includes **orientation-specific analysis** for research-level insights.
 
 ## Objectives
